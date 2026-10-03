@@ -1,0 +1,3 @@
+# O cliente valida arquivos por SHA-256. O Git nao pode converter CRLF/LF,
+# pois os bytes publicados precisam ser identicos aos bytes do manifesto.
+* -text
